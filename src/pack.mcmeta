@@ -1,7 +1,5 @@
 {
   "pack": {
-    "pack_format": 34,
-    "supported_formats": [34, 64],
     "min_format": [34, 0],
     "max_format": [75, 0],
     "description": "§aMogswamp's Server Pack\n§6patreon.com/mogswamp v0.01"
