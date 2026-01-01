@@ -3,15 +3,18 @@
    "parent": "minecraft:item/generated",
   "textures": {
   "layer0": "minecraft:item/cookie"}, "overrides":[
-    {"predicate":{"custom_model_data":1},"model":"custom/loliorange"},
-	{"predicate":{"custom_model_data":2},"model":"custom/lolired"},
-	{"predicate":{"custom_model_data":3},"model":"custom/loliblue"},
-	{"predicate":{"custom_model_data":4},"model":"custom/loligreen"},
-	{"predicate":{"custom_model_data":5},"model":"custom/guardcandy"},
-	{"predicate":{"custom_model_data":6},"model":"custom/caramel_apple"},
-	{"predicate":{"custom_model_data":7},"model":"custom/chocolatebar"},
-	{"predicate":{"custom_model_data":8},"model":"custom/rarecandy"},
-	{"predicate":{"custom_model_data":9},"model":"custom/axorollcandy"},
-        {"predicate":{"custom_model_data":10},"model":"custom/flatnet_juice"}
+    {"predicate":{"custom_model_data":1},"model":"item/loliorange"},
+	{"predicate":{"custom_model_data":2},"model":"item/lolired"},
+	{"predicate":{"custom_model_data":3},"model":"item/loliblue"},
+	{"predicate":{"custom_model_data":4},"model":"item/loligreen"},
+	{"predicate":{"custom_model_data":5},"model":"item/guardcandy"},
+	{"predicate":{"custom_model_data":6},"model":"item/caramel_apple"},
+	{"predicate":{"custom_model_data":7},"model":"item/chocolatebar"},
+	{"predicate":{"custom_model_data":8},"model":"item/rarecandy"},
+	{"predicate":{"custom_model_data":9},"model":"item/axorollcandy"},
+    {"predicate":{"custom_model_data":10},"model":"item/flatnet_juice"},
+	{"predicate":{"custom_model_data":11},"model":"item/spooky_candy_1"},
+	{"predicate":{"custom_model_data":12},"model":"item/spooky_candy_2"},
+	{"predicate":{"custom_model_data":13},"model":"item/spooky_candy_3"}
   ]
   }

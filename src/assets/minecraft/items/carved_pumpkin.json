@@ -1,0 +1,462 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/carved_pumpkin"
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "item/glasses"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "item/ophat"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "item/pinkaxolotl"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "item/pancakes"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "item/mogcrown"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "model",
+          "model": "item/snail"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "item/shulker_hat"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "model",
+          "model": "item/spacesuit"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "model",
+          "model": "item/rathat"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "item/mimic"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "item/dragonegg"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "model",
+          "model": "item/camera"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "model",
+          "model": "item/beardjar"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "model",
+          "model": "item/tricornhat"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "model",
+          "model": "item/horns"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "model",
+          "model": "item/chefhat"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "model",
+          "model": "item/saps"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "model",
+          "model": "item/hardhat"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "model",
+          "model": "item/allay"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "model",
+          "model": "item/llamasnailr"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "model",
+          "model": "item/llamasnailb"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "model",
+          "model": "item/wrathat"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "model",
+          "model": "item/mask"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "model",
+          "model": "item/witchhat"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "model",
+          "model": "item/fakeglasses"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "model",
+          "model": "item/xmastree"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "model",
+          "model": "item/snowglobe"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "model",
+          "model": "item/smallpresent"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "model",
+          "model": "item/santahat"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "model",
+          "model": "item/hideandseek"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "model",
+          "model": "item/amogusslime"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "model",
+          "model": "item/crogus"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "model",
+          "model": "item/snowman"
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "model",
+          "model": "item/tiara"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "model",
+          "model": "item/heartcoe_hat"
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "model",
+          "model": "item/friendshiprat"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "model",
+          "model": "item/heartsnail"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "model",
+          "model": "item/blueaxolotl"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "model",
+          "model": "item/brownaxolotl"
+        }
+      },
+      {
+        "threshold":40,
+        "model": {
+          "type": "model",
+          "model": "item/cyanaxolotl"
+        }
+      },
+      {
+        "threshold":41,
+        "model": {
+          "type": "model",
+          "model": "item/yellowaxolotl"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "model",
+          "model": "item/prideaxo"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "model",
+          "model": "item/bigmogplush"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "model",
+          "model": "item/mogplush"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "model",
+          "model": "item/beeplush"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "model",
+          "model": "item/skeleplush"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "model",
+          "model": "item/witherskeleplush"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "model",
+          "model": "item/zombutplush"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "model",
+          "model": "item/copper_wreath"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "model",
+          "model": "item/greensantahat"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "model",
+          "model": "item/bunny_ears"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "model",
+          "model": "item/spring_basket"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "model",
+          "model": "item/snowmanbackpack"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "model",
+          "model": "item/korok1"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "model",
+          "model": "item/korok2"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "model",
+          "model": "item/flatnet_headphones"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "model",
+          "model": "item/flatnet_lifepreserver"
+        }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "model",
+          "model": "item/flatnet_headphonesrobella"
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "model",
+          "model": "item/blahaj"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "model",
+          "model": "item/banhammer"
+        }
+      },
+      {
+        "threshold": 61,
+        "model": {
+          "type": "model",
+          "model": "item/sunflower_hat"
+        }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "model",
+          "model": "item/mushroom_hat"
+        }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "model",
+          "model": "item/sandcastle"
+        }
+      },
+      {
+        "threshold": 64,
+        "model": {
+          "type": "model",
+          "model": "item/candy_corn"
+        }
+      }
+    ]
+    }
+  }
+
+	

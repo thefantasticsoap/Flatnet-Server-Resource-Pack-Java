@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/dragon_breath"
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "item/bonewand"
+        }
+      },
+{
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "item/bluewand"
+        }
+      },
+{
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "item/wandish"
+        }
+      },
+{
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "item/pumpstaff"
+        }
+      },
+{
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "item/smallkin"
+        }
+      },
+{
+        "threshold": 6,
+        "model": {
+          "type": "model",
+          "model": "item/gobbyshotrod"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "item/skull_slime_hat"
+        }
+      }
+    ]
+      }
+  }
