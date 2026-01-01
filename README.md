@@ -10,4 +10,6 @@ Download the compiled current version of the pack under `zipped`!
 If you're looking for an older version of the pack please check **Releases**
 
 
+If you have any questions or suggestions feel free to reach out to `thefantasticsoap` on discord!
 ![alt text](https://github.com/thefantasticsoap-blip/Flatnet-Server-Resource-Pack-Java/blob/2e05132d066a55880aa474c9843fa7d710294c1d/assets/pack.png "Mogswamp's Logo")
+
